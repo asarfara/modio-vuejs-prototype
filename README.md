@@ -12,7 +12,7 @@ This project consumes mod.io api to display games using VueJS. This page highlig
 
 Clone repository
 ```
-git clone 
+git clone git@github.com:asarfara/modio-vuejs-prototype.git
 ```
 
 Install libraries
