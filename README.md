@@ -1,6 +1,6 @@
 ## Vue JS Prototype For Mod.io
 
-This project consumes mod.io api to display games using VueJS. This page highlights basic controls to show sort controls (Name and Popular) and search through the fetched list.  
+This project consumes mod.io api to display games using VueJS. This page highlights basic controls to show sort (Name and Popular) and searching through the fetched list.  
 
 ### Technologies used:
 - VueJS
